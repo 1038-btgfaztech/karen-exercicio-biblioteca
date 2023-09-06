@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "yWYJsmAcvCP/DLPLzU+B2s+7Qw1gV0SJhGDJYdD5nrUZ45hFfUT8slCwPR9A0l8r8cTb3ieyNmou1NaOk/5rIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\viana\\OneDrive\\Documentos\\Grupo de estudos\\btg\\karen-exercicio-biblioteca\\Biblioteca\\Biblioteca\\Biblioteca.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\viana\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\viana\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\viana\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\viana\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
